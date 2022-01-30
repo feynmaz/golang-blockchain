@@ -1,4 +1,4 @@
-module github.com/feynmaz/gang-blockchain
+module github.com/feynmaz/golang-blockchain
 
 go 1.17
 
